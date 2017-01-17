@@ -1,0 +1,8 @@
+14/01/2017 12:04:37.539 - [INFO] - [Model.DrawingModel.<init>] - Begin of logging in model
+14/01/2017 12:04:37.540 - [INFO] - [Model.ChatModel.<init>] - ChatModel is set up! Lets rock
+14/01/2017 12:04:37.562 - [INFO] - [View.DrawingView.<init>] - Begin of logging in view
+14/01/2017 12:04:37.563 - [INFO] - [Controller.DrawingController.<init>] - Begin of logging in controller
+14/01/2017 12:04:37.563 - [INFO] - [Controller.DrawingController.registerEvents] - Added Listeners to the view
+14/01/2017 12:04:37.627 - [INFO] - [View.DrawingView.paintComponent] - repaint
+14/01/2017 12:04:50.374 - [INFO] - [Controller.CommandConnect.execute] - performing connecting command
+14/01/2017 12:04:52.166 - [INFO] - [Model.ChatModel.update] - ChatModel got notified about changes by its components
